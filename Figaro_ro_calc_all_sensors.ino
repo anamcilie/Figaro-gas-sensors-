@@ -1,5 +1,5 @@
 
-// Figaro TGS 2611 to calculate Ro, sketch_ana
+// Figaro TGS 2611 to calculate Ro for the 4 gas sensors, sketch_ana
 
 void setup() {
   Serial.begin(9600); //Baud rate 
