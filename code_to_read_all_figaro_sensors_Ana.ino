@@ -1,4 +1,4 @@
-// code for the TGS2611-EOO_ana
+// code for the TGS2611-EOO to obtain the methane concentrations in ppm_ana
 
 //Gas Sensor Pin
 
@@ -17,8 +17,6 @@
 #define RL_e 4.75
 #define RL_f 4.75
 
-    
-/*2611 GASSES*/
 
 
 float CH4_bA = -0.81361;
