@@ -1,3 +1,10 @@
+########
+@author: Ana MC Ilie
+
+Citation: Ilie et. al, 2022. Influence of Soil Heterogeneity and Soil Moisture on the Migration of Methane Gas, an Intermediate-Scale Laboratory Investigation. Geosciences Journal, Springer.  
+    
+###########
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -19,7 +26,7 @@ abs_path = os.getcwd()
 abs_path
 
 # change to desired folder where .csv file is present - Use forward backslash
-path = r'D:\Dropbox\Dropbox\A_CESEP Ana Ilie\DATA\2021\Data validation FID CH4sensors\Figaro'
+path = r'D:\DATA\2021\Data validation FID CH4sensors\Figaro'
 data = pd.read_csv(path+'\linear regression for calibrations python.csv')
 
 data.info()
