@@ -1,1 +1,3 @@
-# Figaro-gas-sensors-
+# Soil methane gas emissions - concentrations 
+
+This project is a collaboration between UC Berkeley, Colorado School of Mines (CSM) and Rothamsted Research in the UK, which will investigate the link between the changes in soil structure and the measured concentrations of major greenhouse gases using the distributed fiber optic sensing technology and underground wireless sensor network technology. At CSM a 3D tank was packed with several sand layers and gas injection ports were fixed at a certain depth in the soil. To measure the methane gas injected in the 3D sandy tank, figaro methane gas sensors (low-cost sensors) were used along with a FID methane detector system. 
